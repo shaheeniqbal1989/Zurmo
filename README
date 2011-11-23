@@ -1,6 +1,4 @@
-*Zurmo Open Source CRM*
-
-!http://zurmo.org/wp-content/uploads/2011/08/ScreenFINAL2.jpg!
+**Zurmo Open Source CRM**
 
 Zurmo is an open source CRM  application written in PHP utilizing jQuery, Yii Framework, and RedBeanPHP.
 
@@ -26,8 +24,12 @@ Gone are the days of 'upgrade and pray'. Now it is  'upgrade and test'.
 
 We have installation walkthroughs based on different development  platforms.
 
-*"Windows  Installation Instructions for Development using Apache":http://zurmo.org/wiki/windows-installation-instructions-for-development *
+[Windows  Installation Instructions for Development using Apache] [wi]
+[wi]: http://zurmo.org/wiki/windows-installation-instructions-for-development
 
-*"Linux  Installation Instructions for Development":http://zurmo.org/wiki/linux-installation-instructions-for-development *
+[Linux  Installation Instructions for Development] [li]
+[li]: http://zurmo.org/wiki/linux-installation-instructions-for-development
  
-For support please visit and register for our *"forum":http://zurmo.org/forums/ * pages. 
+For support please visit and register for our [forum] [fp] pages.
+[fp]: http://zurmo.org/forums/
+
