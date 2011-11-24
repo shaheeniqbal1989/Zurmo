@@ -1,7 +1,6 @@
 # Zurmo Open Source CRM
 
-<img width="480" height="309" src="http://zurmo.org/wp-content/uploads/2011/08/ScreenFINAL2.jpg" alt="zurmo-screenshot" title="zurmo-screenshot">
-
+<img height="309" src="http://zurmo.org/wp-content/uploads/2011/08/ScreenFINAL2.jpg" alt="zurmo-screenshot" title="zurmo-screenshot">
 
 **Zurmo is an open source CRM  application written in PHP utilizing jQuery, Yii Framework, and RedBeanPHP.**
 
