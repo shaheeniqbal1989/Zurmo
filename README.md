@@ -1,5 +1,9 @@
 **Zurmo Open Source CRM**
 
+<a href="http://zurmo.org/wp-content/themes/Zurmo/images/logo.png" target="_blank" title="Zurmo Open Source CRM">
+    <img src="http://zurmo.org/wp-content/themes/Zurmo/images/logo.png" alt="Zurmo Open Source CRM">
+</a>
+
 Zurmo is an open source CRM  application written in PHP utilizing jQuery, Yii Framework, and RedBeanPHP.
 
 Our goal with Zurmo is to provide  an easy-to-use, easy-to-customize CRM application that can be adapted
